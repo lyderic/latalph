@@ -24,4 +24,6 @@ Nothing fancy. [Install go](https://go.dev/) and run:
 
 # AGENDA OPERVM (_to do_)
 
-Also convert Arabic numerals to latin e.g.: 5 = V, 100 = C etc.
+- Also convert Arabic numerals to latin e.g.: 5 = V, 100 = C etc.
+
+- Write tests
