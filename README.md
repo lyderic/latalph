@@ -1,4 +1,4 @@
-# QVID EST HOC? (_what is this?_)
+# QVID EST HOC (_what is this?_)
 
 The original Latin alphabet [had only 23 letters](https://mysite.du.edu/~etuttle/classics/latalph.htm). 
 
@@ -15,7 +15,7 @@ Examples:
     $ echo "¡Un café, por favor!" | latalph
     VN CAFE POR FAVOR
 
-# QVAM AEDIFICARE? (_how to build?_)
+# QVAM AEDIFICARE (_how to build?_)
 
 Nothing fancy. [Install go](https://go.dev/) and run:
 
