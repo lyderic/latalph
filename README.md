@@ -17,7 +17,7 @@ Examples:
 
 # QVAM AEDIFICARE? (how to build?)
 
-Nothing fancy. Install (go)[https://go.dev/] and run:
+Nothing fancy. Install [go](https://go.dev/) and run:
 
     $ go mod tidy
     $ go install
