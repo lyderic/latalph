@@ -28,15 +28,13 @@ Nothing fancy. [Install go](https://go.dev/) and run:
 
 Implemented in v0.0.2, only works for integers up to _3999_ for the moment:
 
-```bash
-$ echo 123 | latalph
-CXXIII
-$ echo "22,99 €" | latalph
-MMCCXCIX €
-$ echo "$19.99" | latalph
-CMXCIX
-$ echo "$199.99" | latalph
-integer must be between 1 and 3999
-```
+    $ echo 123 | latalph
+    CXXIII
+    $ echo "22,99 €" | latalph
+    MMCCXCIX €
+    $ echo "$19.99" | latalph
+    CMXCIX
+    $ echo "$199.99" | latalph
+    integer must be between 1 and 3999
 
 - Write tests
