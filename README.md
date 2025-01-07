@@ -2,7 +2,7 @@
 
 The original Latin alphabet [had only 23 letters](https://mysite.du.edu/~etuttle/classics/latalph.htm). 
 
-There was also no lower case letters and no punctuation. The numeric system consisted of letters and zero had not yet been invented.
+There was also no lower case letters and no punctuation. The numeric system consisted of letters; zero had not yet been invented.
 
 This program takes any modern western UTF-8 encoded text and turns it into a Latin representation.
 
