@@ -10,7 +10,7 @@ test: install
 	echo "Jérusalem" | latalph
 	echo "¡Un café, por favor!" | latalph
 	echo "You are giving the maximum." | latalph
-	echo "Tu fais de ton mieux."  | latalph
+	echo "Dies kostet 30 Euros."  | latalph
+	echo "La clé est '123password'."  | latalph
 
 set shell := ["bash","-uc"]
-# vim: ft=make
